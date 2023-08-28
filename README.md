@@ -37,7 +37,8 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![image](https://github.com/JuanOsccoMori/portfolio-challenge/assets/58866695/37344ceb-ac07-4486-8b30-bc1f15bd3514)
+
 
 It took me more time to develop it because it doesn't have a responsive design, so I had to improvise.
 
